@@ -1471,4 +1471,4 @@ async def editsnipe_error(ctx, error):
     if isinstance(error, commands.CommandError):
         await ctx.send("An error occurred while executing the command.")
 
-client.run('MTI1Mjg2NTkxMDQzMjA3NTg1Nw.GlV10q.SkPVfFr7mqOUl5B3pye9uOH1aTQu2exx8DjIDI')
+client.run('token')
